@@ -1,0 +1,17 @@
+- 3 new offices in large conf. area
+- demo
+	- demo existing closet
+	- remove steps, raised platform, and drywall bulkhead in office areas.  Others areas to remain.
+	- retain light fixtures for possible reuse
+- Ceiling
+	- Continue ACT grid from large conf. room to new hallway
+	- Offices to have ACT  - match existing elevation.
+		- 2x2 light fixture (existing potentially)
+- Doors
+	- New entry door to have sidelight and door to have inset glazing
+	- Doors/hardware to match existing and similar conditions
+	- office doors to have inset glazing.
+- Walls
+	- extend gyp. and batt up to existing struct. deck.
+- Finishes
+	- New broadloom carpet throughout offices and conf. room.
