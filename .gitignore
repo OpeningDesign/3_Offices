@@ -4,7 +4,7 @@
 *.bak
 *.ifc.log.html
 Ryan_Random_Tests/
-
+Unshared/
 
 
 # Windows image file caches
@@ -13,6 +13,7 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+.dropbox
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -46,8 +47,8 @@ Icon
 *.log
 
 # FreeCAD and Blender backup files
-*.FcStd1
-*.FcStd2
+*.FCStd1
+*.FCStd2
 *.fcstd1
 *.fcstd2
 *.blend1
